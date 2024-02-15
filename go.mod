@@ -1,9 +1,9 @@
-module github.com/krakendio/krakend-viper/v2
+module github.com/davron112/krakend-viper/v2
 
 go 1.17
 
 require (
-	github.com/luraproject/lura/v2 v2.0.5
+	github.com/davron112/lura/v2 v2.0.5
 	github.com/spf13/viper v1.7.1
 )
 
